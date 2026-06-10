@@ -26,12 +26,12 @@
 | **Чек-лист** | 32 проверки (логин, каталог, корзина, оформление) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/checklist/_Чек-листы%20для%20SauceDemo.xlsx) |
 | **Тест-кейсы** | 19 тест-кейсов с шагами и ожидаемым результатом | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/test-cases/Тест-кейсы%20для%20SauceDemo.xlsx) |
 | **Тест-ран** | Результаты прогона тестов (Pass/Fail) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/test-run/Тест-ран%20для%20SauceDemo.xlsx) |
-| **Баг-репорты** | 3 бага, оформленных в Issues | [Смотреть](../../issues) |
+| **Баг-репорты** | 3 бага, оформленных в Issues | [Смотреть](https://github.com/issues/created) |
 
 **Найденные баги:**
-- [Баг №1](https://github.com/ваш-логин/ваш-репозиторий/issues/1) — Неверное сообщение для заблокированного пользователя
-- [Баг №2](https://github.com/ваш-логин/ваш-репозиторий/issues/2) — Отсутствует изображение товара
-- [Баг №3](https://github.com/ваш-логин/ваш-репозиторий/issues/3) — Кнопка «Назад» после логаута возвращает в каталог
+- [Баг №2](https://github.com/qakopytichanna/qakopytichanna/issues/2) — Неверное сообщение для заблокированного пользователя
+- [Баг №3](https://github.com/qakopytichanna/qakopytichanna/issues/3) — Отсутствует изображение товара
+- [Баг №4](https://github.com/qakopytichanna/qakopytichanna/issues/4) — Кнопка «Назад» после логаута возвращает в каталог
 
 ---
 
@@ -39,8 +39,8 @@
 
 | Название | Что тестирует | Файл |
 |----------|---------------|------|
-| JSONPlaceholder API | Базовые CRUD-операции (GET, POST, PUT, DELETE) | [Скачать коллекцию](postman/jsonplaceholder_collection.json) |
-| Petstore API | API Key авторизация, поиск по статусу, CRUD | [Скачать коллекцию](postman/petstore_collection.json) |
+| JSONPlaceholder API | Базовые CRUD-операции (GET, POST, PUT, DELETE) | [Скачать коллекцию](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/postman/JSONPlaceholder%20API%20Portfolio.postman_collection.json) |
+| Petstore API | API Key авторизация, поиск по статусу, CRUD | [Скачать коллекцию](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/postman/Petstore%20API%20Portfolio.postman_collection.json) |
 
 ---
 
