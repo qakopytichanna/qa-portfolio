@@ -62,3 +62,9 @@ FROM users
 INNER JOIN orders ON users.id = orders.user_id
 GROUP BY users.id
 HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
+
+## 📫 Контакты
+
+- **Telegram:** @kkk_aesx
+- **Email:** annakop17@gmail.com
+- **GitHub:** [github.com/qakopytichanna](https://github.com/qakopytichanna)
