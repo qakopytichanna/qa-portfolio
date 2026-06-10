@@ -9,7 +9,7 @@
 
 | Артефакт | Описание | Ссылка |
 |----------|----------|--------|
-| **Чек-лист** | 32 проверки для SauceDemo (логин, каталог, корзина, оформление) | [Смотреть](checklist/Чек-листы для SauseDemo.xlsx) |
+| **Чек-лист** | 32 проверки для SauceDemo (логин, каталог, корзина, оформление) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/checklist/_Чек-листы%20для%20SauceDemo.xlsx) |
 | **Тест-кейсы** | 19 тест-кейсов с шагами и ожидаемым результатом | [Смотреть](test-cases/saucedemo_testcases.xlsx) |
 | **Тест-ран** | Результаты прогона тестов (Pass/Fail) | [Смотреть](test-run/saucedemo_testrun.xlsx) |
 | **Баг-репорты** | 3 бага, оформленных в Issues | [Смотреть](../../issues) |
