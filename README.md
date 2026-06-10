@@ -25,7 +25,7 @@
 |----------|----------|--------|
 | **Чек-лист** | 32 проверки (логин, каталог, корзина, оформление) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/checklist/_Чек-листы%20для%20SauceDemo.xlsx) |
 | **Тест-кейсы** | 19 тест-кейсов с шагами и ожидаемым результатом | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/test-cases/Тест-кейсы%20для%20SauceDemo.xlsx) |
-| **Тест-ран** | Результаты прогона тестов (Pass/Fail) | [Смотреть](test-run/имя_файла.xlsx) |
+| **Тест-ран** | Результаты прогона тестов (Pass/Fail) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/portfolio/test-run/Тест-ран%20для%20SauceDemo.xlsx) |
 | **Баг-репорты** | 3 бага, оформленных в Issues | [Смотреть](../../issues) |
 
 **Найденные баги:**
