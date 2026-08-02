@@ -2,7 +2,7 @@
 # Портфолио начинающего тестировщика
 
  Привет! Я Аня, начинающий тестировщик ПО. 
-Это моё портфолио с тестовой документацией, баг-репортами и примерами работ.
+Здесь собраны мои учебные проекты.
 
 ---
 
@@ -64,6 +64,8 @@ GROUP BY users.id
 HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
 https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx
 
+---
+
 ###  2. Тестирование Ozon (авторизация)
 
 **Ссылка на сайт:** https://www.ozon.ru/
@@ -84,8 +86,13 @@ https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-
 
 **Результат:** Все 23 тест-кейса выполнены успешно (Pass). Продукт стабилен в проверенных сценариях.
 
+---
+
 ## 📫 Контакты
 
 - **Telegram:** @kkk_aesx
 - **Email:** annakop17@gmail.com
 - **GitHub:** [github.com/qakopytichanna](https://github.com/qakopytichanna)
+
+----
+
