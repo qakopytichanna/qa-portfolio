@@ -64,7 +64,7 @@ GROUP BY users.id
 HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
 https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx
 
-##  2. Тестирование Ozon (авторизация)
+###  2. Тестирование Ozon (авторизация)
 
 **Ссылка на сайт:** https://www.ozon.ru/
 
