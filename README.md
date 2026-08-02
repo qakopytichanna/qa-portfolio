@@ -72,7 +72,7 @@ HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
 
 | Артефакт | Описание | Ссылка |
 |----------|----------|--------|
-| **Чек-лист** | 25 проверок формы авторизации | [Смотреть] (https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx) |
+| **Чек-лист** | 25 проверок формы авторизации | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx) |
 | **Тест-кейсы** | 23 тест-кейса (вход по телефону + вход по email) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/test-cases/Тест-кейсы%20для%20Ozon.xlsx) |
 
 **Что проверяла:**
