@@ -64,18 +64,14 @@ GROUP BY users.id
 HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
 https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx
 
-##  Проект 2: Тестирование авторизации Ozon
+##  2. Тестирование Ozon (авторизация)
 
 **Ссылка на сайт:** https://www.ozon.ru/
 
-**Описание:** Тестирование формы авторизации реального интернет-магазина Ozon. Проверены сценарии входа по номеру телефона и по email.
-
 | Артефакт | Описание | Ссылка |
 |----------|----------|--------|
-| **Чек-лист** | 25 проверок формы авторизации | [Смотреть](ozon/checklists/Ozon_Checklist.xlsx) |
-| **Тест-кейсы** | 23 тест-кейса (вход по телефону + вход по email) | [Смотреть](ozon/test-cases/Ozon_Testcases.xlsx) |
-
-**Результат:** Все 23 тест-кейса выполнены успешно (Pass). Продукт стабилен в проверенных сценариях.
+| **Чек-лист** | 25 проверок формы авторизации | [Смотреть] (https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-листы%20для%20Ozon.xlsx) |
+| **Тест-кейсы** | 23 тест-кейса (вход по телефону + вход по email) | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/test-cases/Тест-кейсы%20для%20Ozon.xlsx) |
 
 **Что проверяла:**
 -  UI элементов формы авторизации
@@ -85,7 +81,10 @@ https://github.com/qakopytichanna/qa-portfolio/blob/main/ozon/checklists/Чек-
 -  Кроссплатформенность (Chrome, Яндекс.Браузер)
 -  Вход по номеру телефона (без пароля)
 -  Вход по email (с паролем)
-##  Контакты
+
+**Результат:** Все 23 тест-кейса выполнены успешно (Pass). Продукт стабилен в проверенных сценариях.
+
+## 📫 Контакты
 
 - **Telegram:** @kkk_aesx
 - **Email:** annakop17@gmail.com
