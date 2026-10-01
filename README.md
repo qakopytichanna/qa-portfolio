@@ -94,7 +94,7 @@ HAVING SUM(orders.total) > (SELECT AVG(total) FROM orders);
 
 | Артефакт | Описание | Ссылка |
 |----------|----------|--------|
-| **Чек-лист** | 19 проверок формы входа | [Смотреть](vk/checklists/VK_Checklist_Login.xlsx) |
+| **Чек-лист** | 19 проверок формы входа | [Смотреть](https://github.com/qakopytichanna/qa-portfolio/blob/main/VK/Чек-листы%20для%20VK.xlsx) |
 | **Тест-кейсы** | 10 тест-кейсов (позитивные + негативные) | [Смотреть](vk/test-cases/VK_TestCases_Login.xlsx) |
 
 **Результат:** Все тесты пройдены успешно (Pass). Форма работает стабильно.
